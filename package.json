@@ -1,0 +1,28 @@
+{
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "name": "hls.js.pull.1528",
+  "version": "1.0.0",
+  "main": "lib/hls.js.pull.1528.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/hls.js.pull.1528.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azu/hls.js.pull.1528/issues"
+  },
+  "homepage": "https://github.com/azu/hls.js.pull.1528/tree/master/"
+}
